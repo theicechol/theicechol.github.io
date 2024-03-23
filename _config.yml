@@ -24,7 +24,7 @@ author:
   avatar           : "Kiattisewee_Cholpisit_Square.jpg"
   name             : "Cholpisit Ice Kiattisewee"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Synthetic Biologist: Genetic devices development towards organism remodeling"
+  bio              : # "Synthetic Biologist: Genetic devices development towards organism remodeling"
   location         : "Seattle"
   employer         : "University of Washington"
   uri              : # URL
