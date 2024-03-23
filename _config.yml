@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cholpisit Ice Kiattisewee"
+title                    : "Ice Kiattisewee"
 title_separator          : "-"
 name                     : &name "Ice Kiattisewee"
-description              : &description "Personal Website"
+description              : &description "Ice's Personal Website"
 url                      : https://theicechol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "theicechol/theicechol.github.io"
@@ -35,8 +35,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=W1KjOXAAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6351-7352"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cholpisit+kiattisewee"
-  researchgate     : "https://www.researchgate.net/profile/Cholpisit-Kiattisewee" # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=cholpisit+kiattisewee"
+  researchgate     : #"https://www.researchgate.net/profile/Cholpisit-Kiattisewee" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -69,7 +69,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "theicechol" # Username
+  youtube          : # "theicechol" # Username
   zhihu            : # URL
 
 
