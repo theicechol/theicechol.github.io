@@ -6,7 +6,7 @@ excerpt: 'Ice helps the VISTEC team with this review mainly on the microbial per
 date: 2024-03-19
 venue: 'Current Opinion in System Biology'
 paperurl: ''
-citation: 'Wongsatit T.<sup>+</sup>, Srimora T.<sup>+</sup>, <u>Kiattisewee C.</u><sup>†</sup>, Uttamapinant C.</u><sup>†</sup> (2024). &quot;Enzymes, auxiliaries and cells for the recycling and upcycling of polyethylene terephthalate (PET).&quot; <i>Current Opinion in System Biology</i>. In-press'
+citation: 'Wongsatit T.<sup>+</sup>, Srimora T.<sup>+</sup>, <u>Kiattisewee C.</u><sup>†</sup>, Uttamapinant C.<sup>†</sup> (2024). &quot;Enzymes, auxiliaries and cells for the recycling and upcycling of polyethylene terephthalate (PET).&quot; <i>Current Opinion in System Biology</i>. In-press'
 ---
 
 ## Abstract
