@@ -6,7 +6,7 @@ excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2023-11-17
 venue: 'bioRxiv'
 paperurl: ''
-citation: 'Fontana J., Sparkman-Yager D., Faulkner I., Cardiff R., <u>Kiattisewee C.</u>, Walls A., Primo T.G., Kinnunen P.C., Garcia Martin H., Zalatan J.G., Carothers J.M. (2023). &quot;Guide RNA structure design enables combinatorial CRISPRa programs for biosynthetic profiling.&quot; <i>bioRxiv</i>. 2023.11.17.567465'
+citation: 'Fontana J.<sup>+</sup>, Sparkman-Yager D.<sup>+</sup>, Faulkner I.<sup>+</sup>, Cardiff R., <u>Kiattisewee C.</u>, Walls A., Primo T.G., Kinnunen P.C., Garcia Martin H., Zalatan J.G.<sup>†</sup>, Carothers J.M.<sup>†</sup> (2023). &quot;Guide RNA structure design enables combinatorial CRISPRa programs for biosynthetic profiling.&quot; <i>bioRxiv</i>. 2023.11.17.567465'
 ---
 
 ## Abstract
