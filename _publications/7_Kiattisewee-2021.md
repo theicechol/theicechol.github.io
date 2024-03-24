@@ -6,7 +6,7 @@ excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2021-04-28
 venue: 'Metabolic Engineering'
 paperurl: 'http://theicechol.github.io/files/7_Kiattisewee-2021.pdf'
-citation: '<u>Kiattisewee C.<u/>, Dong C., Fontana J., Sugianto W., Peralta-Yahya P., Carothers J.M., Zalatan J.G. (2021). &quot;Portable bacterial CRISPR transcriptional activation enables metabolic engineering in <i>Pseudomonas putida<i/>.&quot; <i>Metabolic Engineering</i>. 66:283-295. PMID: 33930546.'
+citation: '<u>Kiattisewee C.</u>, Dong C., Fontana J., Sugianto W., Peralta-Yahya P., Carothers J.M., Zalatan J.G. (2021). &quot;Portable bacterial CRISPR transcriptional activation enables metabolic engineering in <i>Pseudomonas putida<i/>.&quot; <i>Metabolic Engineering</i>. 66:283-295. PMID: 33930546.'
 ---
 
 ### Abstract
