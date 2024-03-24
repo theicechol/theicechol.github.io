@@ -1,12 +1,12 @@
 ---
 title: "Kinetic studies of conjugate addition of amines to allenic and acrylic esters and their correlation with antibacterial activities against <i>Staphylococcus aureus</i>"
 collection: publications
-permalink: /publication/2_Kiattisewee-2018.pdf
+permalink: /publication/2_Kiattisewee-2018
 excerpt: 'This paper is part of Ice undergraduate and master research at Mahidol University.'
 date: 2018-02-20
 venue: 'Monatshefte für Chemie - Chemical Monthly'
 paperurl: 'http://theicechol.github.io/files/2_Kiattisewee-2018.pdf'
-citation: 'Kiattisewee C., Kaidad A., Jiarpinitnun C., Luanphaisarnnont T. (2018). &quot;Kinetic studies of conjugate addition of amines to allenic and acrylic esters and their correlation with antibacterial activities against <i>Staphylococcus aureus</i>.&quot; <i>Monatshefte für Chemie - Chemical Monthly</i>. 149:1059–1068.'
+citation: '<u>Kiattisewee C.</u>, Kaidad A., Jiarpinitnun C., Luanphaisarnnont T. (2018). &quot;Kinetic studies of conjugate addition of amines to allenic and acrylic esters and their correlation with antibacterial activities against <i>Staphylococcus aureus</i>.&quot; <i>Monatshefte für Chemie - Chemical Monthly</i>. 149:1059–1068.'
 ---
 
 ### Abstract
