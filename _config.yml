@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ice Kiattisewee"
+title                    : "Cholpisit Ice Kiattisewee"
 title_separator          : "-"
-name                     : &name "Ice Kiattisewee"
+name                     : &name "Cholpisit Ice Kiattisewee"
 description              : &description "Ice's Personal Website"
 url                      : https://theicechol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
