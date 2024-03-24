@@ -3,9 +3,9 @@ title: "Guide RNA structure design enables combinatorial CRISPRa programs for bi
 collection: publications
 permalink: /publication/13_Fontana-SparkmanYager-Faulkner-2023
 excerpt: 'This paper is part of Ice PhD research at UW.'
-date: 2021-04-28
+date: 2023-11-17
 venue: 'bioRxiv'
-paperurl: 'http://theicechol.github.io/files/13_Fontana-SparkmanYager-Faulkner-2023.pdf'
+paperurl: ''
 citation: 'Fontana J., Sparkman-Yager D., Faulkner I., Cardiff R., <u>Kiattisewee C.</u>, Walls A., Primo T.G., Kinnunen P.C., Garcia Martin H., Zalatan J.G., Carothers J.M. (2023). &quot;Guide RNA structure design enables combinatorial CRISPRa programs for biosynthetic profiling.&quot; <i>bioRxiv</i>. 2023.11.17.567465'
 ---
 
