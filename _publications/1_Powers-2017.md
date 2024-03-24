@@ -2,7 +2,7 @@
 title: "A 1,2-Addition Pathway for C(sp<sup>2</sup>)—H Activation at a Dinickel Imide"
 collection: publications
 permalink: /publication/1_Powers-2017
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is part of Ice's research during an undergraduate internship at Purdue University.'
 date: 2017-05-22
 venue: 'Chemistry – A European Journal'
 paperurl: 'http://theicechol.github.io/files/1_Powers-2017.pdf.pdf'
