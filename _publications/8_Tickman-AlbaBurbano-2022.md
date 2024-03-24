@@ -6,7 +6,7 @@ excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2022-03-16
 venue: 'Cell Systems'
 paperurl: 'http://theicechol.github.io/files/8_Tickman-AlbaBurbano-2022.md.pdf'
-citation: 'Tickman B.I., Burbano D.A., Chavali V.P., <u>Kiattisewee C.<u/>, Fontana J., Khakimzhan A., Noireaux V., Zalatan J.G., Carothers J.M. (2022). &quot;Multi-layer CRISPRa/i circuits for dynamic genetic programs in cell-free and bacterial systems.&quot; <i>Cell Systems</i>. 13(3):215-229.e8. PMID: 34800362.'
+citation: 'Tickman B.I., Burbano D.A., Chavali V.P., <u>Kiattisewee C.</u>, Fontana J., Khakimzhan A., Noireaux V., Zalatan J.G., Carothers J.M. (2022). &quot;Multi-layer CRISPRa/i circuits for dynamic genetic programs in cell-free and bacterial systems.&quot; <i>Cell Systems</i>. 13(3):215-229.e8. PMID: 34800362.'
 ---
 
 ### Abstract
