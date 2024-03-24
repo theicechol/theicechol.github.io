@@ -6,7 +6,7 @@ excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2023-07-18
 venue: 'Proceedings of the National Academy of Sciences of the United States of America'
 paperurl: ''
-citation: 'Alba Burbano D.<sup>+</sup>, Cardiff R.A.L.<sup>+</sup>, Tickman B.I., <u>Kiattisewee C.</u>, Maranas C.J., Zalatan J.G., Carothers J.M. (2023). &quot;Engineering activatable promoters for scalable and multi-input CRISPRa/i circuits.&quot; <i>Proceedings of the National Academy of Sciences of the United States of America</i>. 120(30):e2220358120. PMID: 37463216.'
+citation: 'Alba Burbano D.<sup>+</sup>, Cardiff R.A.L.<sup>+</sup>, Tickman B.I., <u>Kiattisewee C.</u>, Maranas C.J., Zalatan J.G.<sup>†</sup>, Carothers J.M.<sup>†</sup> (2023). &quot;Engineering activatable promoters for scalable and multi-input CRISPRa/i circuits.&quot; <i>Proceedings of the National Academy of Sciences of the United States of America</i>. 120(30):e2220358120. PMID: 37463216.'
 ---
 
 ## Abstract
