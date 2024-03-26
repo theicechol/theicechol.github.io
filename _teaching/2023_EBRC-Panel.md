@@ -3,7 +3,7 @@ title: "EBRC Panel 2023"
 collection: teaching
 type: "Panel"
 permalink: /teaching/2023_EBRC-Panel
-venue: "SynBio4ALL Team"
+venue: "EBRC SPA Team"
 date: 2023-09-13
 location: "Virtual"
 ---

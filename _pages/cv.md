@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also find my pdf CV [here](theicechol.github.io/files/Cholpisit_Kiattisewee_CV.pdf)
+
 Education
 ======
 * Ph.D in Molecular Engineering and Sciences (Data Science Option), 2018-2023
@@ -54,7 +56,7 @@ Skills
   * Unconventional bacteria
     * <b><i>Pseudomonas putida</i></b>
     * <b><i>Acinetobacter baylyi</i></b>
-    * <b><i>Bacillus subtilis</i>
+    * <b><i>Bacillus subtilis</i></b>
       * <i>Vibrio natriegens</i>
       * <i>Shewanella oneidensis</i>
       * <i>Rhodobacter sphaeroides</i>
