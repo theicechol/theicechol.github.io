@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also find my pdf CV [here](theicechol.github.io/files/Cholpisit_Kiattisewee_CV.pdf)
+
 Education
 ======
 * Ph.D in Molecular Engineering and Sciences (Data Science Option), 2018-2023
