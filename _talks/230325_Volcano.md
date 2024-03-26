@@ -1,11 +1,11 @@
 ---
-title: "Design rules for multiple bacterial CRISPRa systems enable synergistic gene activation"
+title: "Model-driven DBTL cycles acceleration with broad-host-range bacterial CRISPRa/i circuits"
 collection: talks
 type: "Conference Talks"
-permalink: /talks/230325_DiscoverBMB
+permalink: /talks/230211_Volcano
 venue: "Volcano Conference 2023"
-date: 2023-03-25
-location: "Seattle, Washington"
+date: 2023-02-11
+location: "Mt. Rainier, Washington"
 ---
 
 [Volcano Conference](https://faculty.washington.edu/gelb/GelbLab/volcano.html) is conference in Chemical Biology attractive to Pacific Northwest (PNW) reasearchers.
