@@ -10,3 +10,4 @@ location: "Berkeley, California"
 
 [The International Conference on CRISPR Technologies](https://www.aiche.org/sbe/conferences/international-conference-on-crispr-technologies/2022) focuses on recent technological advancement in CRISPR research.
 Ice presented a poster at this conference and get to know a lot of world class CRISPR researchers, especially the Bay Area team.
+<br/><img src='/images/Cholpisit_CRISPR-2022.jpg'>
