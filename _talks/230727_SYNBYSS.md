@@ -12,4 +12,4 @@ Ice presented research together with Prof. Wilson Wong from Boston University
 [Recording to the talk is available here](https://www.youtube.com/watch?v=poXXo8XbPcg&t=10s)
 
 SYNBYSS was founded, hosted, and organized by Prof. Tae Seok Moon.
-(See more details here](https://ebrc.org/synthetic-biology-young-speaker-series-synbyss/)
+[See more details here](https://ebrc.org/synthetic-biology-young-speaker-series-synbyss/)
