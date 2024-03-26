@@ -56,7 +56,7 @@ Skills
   * Unconventional bacteria
     * <b><i>Pseudomonas putida</i></b>
     * <b><i>Acinetobacter baylyi</i></b>
-    * <b><i>Bacillus subtilis</i>
+    * <b><i>Bacillus subtilis</i></b>
       * <i>Vibrio natriegens</i>
       * <i>Shewanella oneidensis</i>
       * <i>Rhodobacter sphaeroides</i>
