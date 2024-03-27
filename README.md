@@ -5,3 +5,5 @@ Ice adapted this website from the template available at academic pages
 
 * Get rid of portfolio tab by deleting the list from data/navigation.yml
 * Play around with images attachment on various pages
+
+<br/><img src='/images/favicon.ico'>
