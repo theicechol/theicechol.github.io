@@ -9,6 +9,7 @@ paperurl: ''
 citation: 'Pongpamorn P.<sup>+</sup>, <u>Kiattisewee C.</u><sup>+</sup>, Kittipanukul N.<sup>+</sup>, Jaroensuk J., Trisrivirat D., Maenpuen S., Chaiyen P.<sup>†</sup> (2021). &quot;Carboxylic Acid Reductase Can Catalyze Ester Synthesis in Aqueous Environments.&quot; <i>Angewandte Chemie International Edition</i>. 60(11):5749-5753. PMID: 33247515..'
 ---
 
+<br/><img src='/images/6_Pongpamorn-Kiattisewee-Kittipanukul-2020.jpg'>
 ## Abstract
 
 Most of the well-known enzymes catalyzing esterification require the minimization of water or activated substrates for activity. This work reports a new reaction catalyzed by carboxylic acid reductase (CAR), an enzyme known to transform a broad spectrum of carboxylic acids into aldehydes, with the use of ATP, Mg2+ , and NADPH as co-substrates. When NADPH was replaced by a nucleophilic alcohol, CAR from Mycobacterium marinum can catalyze esterification under aqueous conditions at room temperature. Addition of imidazole, especially at pH 10.0, significantly enhanced ester production. In comparison to other esterification enzymes such as acyltransferase and lipase, CAR gave higher esterification yields in direct esterification under aqueous conditions. The scalability of CAR catalyzed esterification was demonstrated for the synthesis of cinoxate, an active ingredient in sunscreen. The CAR esterification offers a new method for green esterification under high water content conditions.

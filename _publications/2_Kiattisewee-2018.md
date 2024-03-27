@@ -9,6 +9,7 @@ paperurl: ''
 citation: '<u>Kiattisewee C.</u>, Kaidad A., Jiarpinitnun C., Luanphaisarnnont T.<sup>†</sup> (2018). &quot;Kinetic studies of conjugate addition of amines to allenic and acrylic esters and their correlation with antibacterial activities against <i>Staphylococcus aureus</i>.&quot; <i>Monatshefte für Chemie - Chemical Monthly</i>. 149:1059–1068.'
 ---
 
+<br/><img src='/images/2_Kiattisewee-2018.png'>
 ## Abstract
 
 Kinetic reactivities of various allenic and acrylic esters in conjugate addition reactions with various amines were investigated. Competition experiments showed that amines reacted selectively with allenic esters, which was also confirmed by quantitative determination of the rate constants. The antibacterial activity against Staphylococcus aureus of allenic and acrylic ester derivatives were also determined. Allenic esters were found to exhibit a higher antibacterial activity than its acrylic counterparts. A correlation between the kinetic property and the antibacterial activity suggested that a conjugate addition may involve in the antibacterial mechanism of these unsaturated esters.
