@@ -16,8 +16,12 @@ Ice is originally from Thailand where he graduated with B.Sc. and M.Sc. degrees 
 
 Whenever Seattle weather is permissive, Ice enjoys hiking and surfing apart from getting beaten up in Muay Thai training. Check out Ice's instagram for his collections of natural and cultural capture.
 
-<br/><img src='/images/Thai-cultural-map.jfif'>
+<br/><img src='/images/Thai-cultural-map_customized.png'>
 
 ## Ice in the communities
 
 Ice is very active in various communities ranging from his MolES Ph.D. program. Beyond UW, Ice serves as a board member of [Engineering Biology Research Consortium ([EBRC](https://ebrc.org/)) - Student and Postdoc Association ([SPA](https://ebrc.org/cholpisit-kiattisewee/)) working on fostering the SynBio community in the US and beyond. With the team met at EBRC, we co-founded the SynBio4ALL intitiative to promote Synthetic Biology education for African students. Ice is also supporting the SynBio community in Thailand prior to the founding of Thailand Synthetic Biology Consortium through both academic lectureship and public communication.
+
+[<img src="/images/logo-EBRC.png">](https://ebrc.org/student-postdoc-association/)
+[<img src="/images/logo-SynBio4ALL.png">](https://synbio4all.wixsite.com/synbio4all/education)
+[<img src="/images/logo-ThaiSynBio.jpg">](https://www.th-synbioconsortium.com/)
