@@ -24,4 +24,4 @@ Ice is very active in various communities ranging from his MolES Ph.D. program. 
 
 [<img src="/images/logo-EBRC.png">](https://ebrc.org/student-postdoc-association/)
 [<img src="/images/logo-SynBio4ALL.png">](https://synbio4all.wixsite.com/synbio4all/education)
-[<img src="/images/logo-ThaiSynBio.jpg">](https://www.th-synbioconsortium.com/)
+[<img src="/images/logo-Thai-SynBio.jpg">](https://www.th-synbioconsortium.com/)
