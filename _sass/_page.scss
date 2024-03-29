@@ -16,14 +16,6 @@
   }
 }
 
-body {
-    background-image: url('images/bacterial-community.png');
-    background-size: cover; /* Optional: Adjusts the background image size to cover the entire viewport */
-    background-repeat: repeat;
-    background-position: center; /* Optional: Centers the background image */
-    /* Additional background properties can be added as needed */
-}
-
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
