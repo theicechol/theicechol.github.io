@@ -10,4 +10,5 @@ location: "San Diego, California"
 
 [ACS BRIDGE](https://www.acs.org/education/students/graduate/bridge-project/students/career-kickstarter-workshop.html) hosted a Career Kick-Starter workshop for professional development.
 Ice was invited to the workshop to foster DEI initiave across chemical sciences.
+With great experience from the CKS workshop, Ice is bringing the workshop to UW with sponsorship from UW Department of Chemistry!!!
 <br/><img src='/images/2023_ACS-BRIDGE-CKS.jfif'>

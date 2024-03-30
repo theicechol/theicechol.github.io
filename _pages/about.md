@@ -20,7 +20,7 @@ Whenever Seattle weather is permissive, Ice enjoys hiking and surfing apart from
 
 ## Ice in the communities
 
-Ice is active in various communities ranging from his MolES Ph.D. program to national associations. Beyond UW, Ice serves as a board member of [Engineering Biology Research Consortium ([EBRC](https://ebrc.org/)) - Student and Postdoc Association ([SPA](https://ebrc.org/cholpisit-kiattisewee/)) working on fostering the SynBio community in the US and beyond. With the team met at EBRC, we co-founded the SynBio4ALL intitiative to promote Synthetic Biology education for African students. Ice is also supporting the SynBio community in Thailand prior to the founding of Thailand Synthetic Biology Consortium through both academic lectureship and public communication.
+Ice is active in various communities ranging from his MolES Ph.D. program to national associations. Beyond UW, Ice serves as a board member of Engineering Biology Research Consortium ([EBRC](https://ebrc.org/)) - Student and Postdoc Association ([SPA](https://ebrc.org/cholpisit-kiattisewee/)) working on fostering the SynBio community in the US and beyond. With the team met at EBRC, we co-founded the SynBio4ALL intitiative to promote Synthetic Biology education for African students. Ice is also supporting the SynBio community in Thailand prior to the founding of Thailand Synthetic Biology Consortium through both academic lectureship and public communication.
 
 [<img src="/images/logo-EBRC.png">](https://ebrc.org/student-postdoc-association/)
 [<img src="/images/logo-SynBio4ALL.png">](https://synbio4all.wixsite.com/synbio4all/education)
