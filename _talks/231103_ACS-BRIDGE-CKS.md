@@ -4,7 +4,7 @@ collection: talks
 type: "Invited"
 permalink: /talks/231103_ACS-BRIDGE-CKS
 venue: "ACS BRIDGE Career Kickstarter"
-date: 2022-03-20
+date: 2023-11-03
 location: "San Diego, California"
 ---
 
