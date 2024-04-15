@@ -126,7 +126,7 @@ Leadership and Services
 * 2021 – 2023
   * “Membership and Outreach Co-Chair” and “DEI Task Force Liaison”, Engineering Biology Research Consortium Student and Postdoctoral Association (EBRC-SPA)
 * 2023
-  * Panelist at DiscoverBMB Community Day at the ASBMB annual conference
+  * Panelist at [DiscoverBMB Community Day](https://www.asbmb.org/asbmb-today/education/112723/community-day-broadens-impact-of-discoverbmb) at the ASBMB annual conference
 * 2021 – 2022 
   * UW Graduate School Interdisciplinary Committee (GSIC), as a MolES Student Liaison working on developing new course curriculum for Ph.D. students
 * 2021 – 2022

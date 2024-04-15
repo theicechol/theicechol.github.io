@@ -9,3 +9,5 @@ location: "Bangkok, Thailand"
 ---
 
 Ice visited Thailand and presented his research at his alma mater.
+
+<br/><img src='/images/2022_MU-BC_Seminar.png'>
