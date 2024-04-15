@@ -9,7 +9,7 @@ paperurl: ''
 citation: 'Alba Burbano D.<sup>+</sup>, Kiattisewee C.<sup>+</sup>, Karanjia A.V., Cardiff R.A.L., Faulkner I.D., Sugianto W., Carothers J.M.<sup>†</sup> (2024). &quot;CRISPR Tools for Engineering Prokaryotic Systems: Recent Advances and New Applications.&quot; <i>Annual Review in Chemical and Biomolecular Engineering</i>. 15, 11.1-11.42'
 ---
 
-<br/><img src='/images/14_AlbaBurbano-Kiattisewee-2024.png'>
+<br/><img src='/images/15_AlbaBurbano-Kiattisewee-2024.png'>
 ## Abstract
 
 In the past decades, the broad selection of CRISPR-Cas systems has revolutionized biotechnology by enabling multimodal genetic manipulation in diverse organisms. Rooted in a molecular engineering perspective, we recapitulate the different CRISPR components and how they can be designed for specific genetic engineering applications. We first introduce the repertoire of Cas proteins and tethered effectors used to program new biological functions through gene editing and gene regulation. We review current guide RNA (gRNA) design strategies and computational tools and how CRISPR-based genetic circuits can be constructed through regulated gRNA expression. Then, we present recent advances in CRISPR-based biosensing, bioproduction, and biotherapeutics across in vitro and in vivo prokaryotic systems. Finally, we discuss forthcoming applications in prokaryotic CRISPR technology that will transform synthetic biology principles in the near future.
