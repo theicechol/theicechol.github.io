@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/15_AlbaBurbano-Kiattisewee-2024
 excerpt: 'Ice and team at UW crafted this extensive review of current bacterial CRISPR technologies.'
 date: 2024-04-10
-venue: 'Annual Review in Chemical and Biomolecular Engineering'
-paperurl: ''
-citation: 'Alba Burbano D.<sup>+</sup>, Kiattisewee C.<sup>+</sup>, Karanjia A.V., Cardiff R.A.L., Faulkner I.D., Sugianto W., Carothers J.M.<sup>†</sup> (2024). &quot;CRISPR Tools for Engineering Prokaryotic Systems: Recent Advances and New Applications.&quot; <i>Annual Review in Chemical and Biomolecular Engineering</i>. 15, 11.1-11.42'
+venue: 'Annual Review of Chemical and Biomolecular Engineering'
+paperurl: 'https://doi.org/10.1146/annurev-chembioeng-100522-114706'
+citation: 'Alba Burbano D.<sup>+</sup>, <u>Kiattisewee C.</u><sup>+</sup>, Karanjia A.V., Cardiff R.A.L., Faulkner I.D., Sugianto W., Carothers J.M.<sup>†</sup> (2024). &quot;CRISPR Tools for Engineering Prokaryotic Systems: Recent Advances and New Applications.&quot; <i>Annual Review of Chemical and Biomolecular Engineering</i>. 15(1):389-430.'
 ---
 
 <br/><img src='/images/15_AlbaBurbano-Kiattisewee-2024.png'>
