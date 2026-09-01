@@ -7,22 +7,41 @@ redirect_from:
   - /about.html
 ---
 
-# In brief about Ice
+# About me
 
-Ice is a Ph.D. graduate from the Molecular Engineering and Sciences program at the University of Washington working under the supervision of [James Carothers](https://sites.google.com/view/carothersresearchgroup/home?authuser=0) and [Jesse Zalatan](https://depts.washington.edu/jzlab/drupal/). 
-During the Ph.D., Ice works on developing a bacterial CRISPR tool for the genetic manipulation of various microbes mainly for applications in Metabolic Engineering and Signaling. After graduation, Ice is interested in engineering of the multi-organism community, including that of microbial consortia and cross-kingdom interaction.
+I am an Engineering Excellence Postdoctoral Fellow at the [Massachusetts Institute of Technology](https://engineering.mit.edu/people/cholpisit-ice-kiattisewee), working with [James J. Collins](https://www.collinslab.mit.edu/) at the Institute for Medical Engineering and Science. My research focuses on antimicrobial resistance and engineered living therapeutics—using synthetic biology, microbial engineering, and genetic circuits to design living systems that can address human-health challenges.
 
-Ice will be moving to MIT through the [Engineering Excellence Postdoctoral Program](https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/) starting September 2024 to join [James J. Collins](https://www.collinslab.mit.edu/) team. Looking forward to the rich academic and biotech community in Boston!!!
+## Current research
 
-Ice is originally from Thailand where he graduated with B.Sc. and M.Sc. degrees in Organic Chemistry at Mahidol University, Bangkok, focusing on mechanistic study of antibiotic function. Then, he shifted gear into Enzyme Biocatalysis research at Vidhyasirimedhi Institute of Technology (VISTEC), Rayong, working as a founding member of the school of Biomolecular Sciences and Engineering. Ice moved to Seattle in 2018 to explore the frontier of Synthetic Biology research.
+- **Engineered living therapeutics:** designing microorganisms that can sense and respond to disease-relevant signals.
+- **Antimicrobial resistance:** developing genetic approaches to target antibiotic-resistance genes in complex microbial communities.
+- **Microbial CRISPR and genetic circuits:** creating portable tools for programming diverse bacterial species, with applications in metabolic engineering and microbiome engineering.
 
-Whenever Seattle weather is permissive, Ice enjoys hiking and surfing apart from getting beaten up in Muay Thai training. Check out Ice's instagram for his collections of natural and cultural capture.
+I earned my Ph.D. in Molecular Engineering and Sciences at the University of Washington, where I worked with [James Carothers](https://sites.google.com/view/carothersresearchgroup/home?authuser=0) and [Jesse Zalatan](https://depts.washington.edu/jzlab/drupal/). During my doctoral research, I developed portable CRISPR-based gene-regulation technologies for programming diverse bacterial species, with applications in metabolic engineering and genetic circuitry.
+
+At MIT, I am exploring how engineered microbes and microbial communities can be used to combat antimicrobial resistance. I am particularly interested in developing genetic approaches that target antibiotic-resistance genes in complex microbiomes and in connecting these approaches with AI-assisted antibiotic discovery.
+
+## Selected research
+
+- [How many plasmids can bacteria carry? A synthetic biology perspective](/publication/16_Kiattisewee-2025) — *Open Biology* (2025)
+- [Systematic Mapping of Bacterial CRISPRa Systems for Synergistic Gene Activation Reveals Antagonistic Effects](/publication/17_Kiattisewee-Karanjia-Cardiff-2025) — *ACS Synthetic Biology* (2025)
+- [Portable bacterial CRISPR transcriptional activation enables metabolic engineering in *Pseudomonas putida*](/publication/7_Kiattisewee-2021) — *Metabolic Engineering* (2021)
+
+## Background
+
+I was born and raised in Thailand and received my B.Sc. and M.Sc. degrees in Organic Chemistry from Mahidol University. I later joined the founding team of the School of Biomolecular Sciences and Engineering at VISTEC, where I worked on enzyme biocatalysis before moving into synthetic biology.
+
+Outside the lab, I enjoy hiking, surfing, climbing, Muay Thai, and cooking Thai food. Check out my [Instagram](https://instagram.com/theicechol) for photos of nature, travel, and culture.
 
 <br/><img src='/images/Thai-cultural-map_customized.png'>
 
-## Ice in the communities
+## Community engagement
 
-Ice is active in various communities ranging from his MolES Ph.D. program to national associations. Beyond UW, Ice serves as a board member of Engineering Biology Research Consortium ([EBRC](https://ebrc.org/)) - Student and Postdoc Association ([SPA](https://ebrc.org/cholpisit-kiattisewee/)) working on fostering the SynBio community in the US and beyond. With the team met at EBRC, we co-founded the SynBio4ALL intitiative to promote Synthetic Biology education for African students. Ice is also supporting the SynBio community in Thailand prior to the founding of Thailand Synthetic Biology Consortium through both academic lectureship and public communication.
+I am actively involved in building engineering-biology communities in the United States, Thailand, and internationally. I previously served as a board member of the Engineering Biology Research Consortium ([EBRC](https://ebrc.org/)) Student and Postdoc Association ([SPA](https://ebrc.org/cholpisit-kiattisewee/)), helping foster connections across the synthetic-biology community.
+
+Through connections formed at EBRC, I helped co-found [SynBio4ALL](https://synbio4all.wixsite.com/synbio4all/education), an initiative created to expand access to synthetic-biology education for African students. I have also supported the development of Thailand's synthetic-biology community through teaching, public communication, and the [Thailand Synthetic Biology Consortium](https://www.th-synbioconsortium.com/).
+
+I also contribute to [How To Grow (Almost) Anything](https://pages.htgaa.org/2026a/course-pages/), a global synthetic-biology course based at MIT and Harvard. As a member of the teaching staff, I support laboratory and recitation instruction in areas including DNA assembly, cell-free systems, and CRISPR-based metabolic engineering.
 
 [<img src="/images/logo-EBRC.png">](https://ebrc.org/student-postdoc-association/)
 [<img src="/images/logo-SynBio4ALL.png">](https://synbio4all.wixsite.com/synbio4all/education)
