@@ -5,8 +5,8 @@ permalink: /publication/6_Pongpamorn-Kiattisewee-Kittipanukul-2020
 excerpt: 'This paper is part of Ice work as a research assistant at VISTEC.'
 date: 2021-03-08
 venue: 'Angewandte Chemie International Edition'
-paperurl: ''
-citation: 'Pongpamorn P.<sup>+</sup>, <u>Kiattisewee C.</u><sup>+</sup>, Kittipanukul N.<sup>+</sup>, Jaroensuk J., Trisrivirat D., Maenpuen S., Chaiyen P.<sup>†</sup> (2021). &quot;Carboxylic Acid Reductase Can Catalyze Ester Synthesis in Aqueous Environments.&quot; <i>Angewandte Chemie International Edition</i>. 60(11):5749-5753. PMID: 33247515..'
+paperurl: 'https://doi.org/10.1002/anie.202013962'
+citation: 'Pongpamorn P.<sup>+</sup>, <u>Kiattisewee C.</u><sup>+</sup>, Kittipanukul N.<sup>+</sup>, Jaroensuk J., Trisrivirat D., Maenpuen S., Chaiyen P.<sup>†</sup> (2021). &quot;Carboxylic Acid Reductase Can Catalyze Ester Synthesis in Aqueous Environments.&quot; <i>Angewandte Chemie International Edition</i>. 60(11):5749-5753. PMID: 33247515.'
 ---
 
 <br/><img src='/images/6_Pongpamorn-Kiattisewee-Kittipanukul-2020.jpg'>

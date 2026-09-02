@@ -5,7 +5,7 @@ permalink: /publication/5_Fontana-Dong-2020
 excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2020-04-01
 venue: 'Nature Communications'
-paperurl: ''
+paperurl: 'https://doi.org/10.1038/s41467-020-15454-y'
 citation: 'Fontana J.<sup>+</sup>, Dong C.<sup>+</sup>, <u>Kiattisewee C.</u>, Chavali V.P., Tickman B.I., Carothers J.M.<sup>†</sup>, Zalatan J.G.<sup>†</sup> (2020). &quot;Effective CRISPRa-mediated control of gene expression in bacteria must overcome strict target site requirements.&quot; <i>Nature Communications</i>. 11(1):1618. PMID: 32238808.'
 ---
 

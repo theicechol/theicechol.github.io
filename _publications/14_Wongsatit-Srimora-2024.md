@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/14_Wongsatit-Srimora-2024
 excerpt: 'Ice helps the VISTEC team with this review mainly on the microbial perspective.'
 date: 2024-03-19
-venue: 'Current Opinion in System Biology'
-paperurl: ''
-citation: 'Wongsatit T.<sup>+</sup>, Srimora T.<sup>+</sup>, <u>Kiattisewee C.</u><sup>†</sup>, Uttamapinant C.<sup>†</sup> (2024). &quot;Enzymes, auxiliaries and cells for the recycling and upcycling of polyethylene terephthalate (PET).&quot; <i>Current Opinion in System Biology</i>. 38, 100515'
+venue: 'Current Opinion in Systems Biology'
+paperurl: 'https://doi.org/10.1016/j.coisb.2024.100515'
+citation: 'Wongsatit T.<sup>+</sup>, Srimora T.<sup>+</sup>, <u>Kiattisewee C.</u><sup>†</sup>, Uttamapinant C.<sup>†</sup> (2024). &quot;Enzymes, auxiliaries and cells for the recycling and upcycling of polyethylene terephthalate (PET).&quot; <i>Current Opinion in Systems Biology</i>. 38:100515.'
 ---
 
 <br/><img src='/images/14_Wongsatit-Srimora-2024.jpg'>

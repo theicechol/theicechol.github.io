@@ -5,7 +5,7 @@ permalink: /publication/3_Chuaboon-2019
 excerpt: 'This paper is part of Ice work as a research assistant at VISTEC.'
 date: 2019-10-03
 venue: 'Angewandte Chemie International Edition'
-paperurl: ''
+paperurl: 'https://doi.org/10.1002/anie.201814219'
 citation: 'Chuaboon L., Wongnate T., Punthong P., <u>Kiattisewee C.</u>, Lawan N., Hsu C.Y., Lin C.H., Bornscheuer U.T., Chaiyen P.<sup>†</sup> (2019). &quot;One-Pot Bioconversion of l-Arabinose to l-Ribulose in an Enzymatic Cascade.&quot; <i>Angewandte Chemie International Edition</i>. 58(8):2428-2432. PMID: 30605256.'
 ---
 

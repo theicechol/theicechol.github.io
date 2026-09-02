@@ -5,7 +5,7 @@ permalink: /publication/11_Sugianto-2023
 excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2023-05-22
 venue: 'Materials Today Bio'
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2590006423001370'
 citation: 'Sugianto W., Altin-Yavuzarslan G., Tickman B.I., <u>Kiattisewee C.</u>, Yuan S.F., Brooks S.M., Wong J., Alper H.S., Nelson A., Carothers J.M.<sup>†</sup> (2023). &quot;Gene expression dynamics in input-responsive engineered living materials programmed for bioproduction.&quot; <i>Materials Today Bio</i>. 20:100677. PMID: 37273790.'
 ---
 
