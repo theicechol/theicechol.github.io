@@ -9,6 +9,8 @@ paperurl: 'https://www.unesco.org/en/articles/engineering-biology-international-
 citation: 'Chaiyen P., Fahmi A., Khomfoi S., <u>Kiattisewee C.</u> (2026). &quot;Engineering Biology: International Guidelines for Constructing Higher Education Curricula.&quot; UNESCO Publishing.'
 ---
 
+<br/><img src='/images/20_Chaiyen-Fahmi-Khomfoi-Kiattisewee-2026.PNG'>
+
 ## Summary
 
 This UNESCO publication provides international guidance for constructing higher-education curricula in engineering biology. It addresses the interdisciplinary knowledge, practical competencies, and educational structures needed to prepare students for responsible work across the field.
