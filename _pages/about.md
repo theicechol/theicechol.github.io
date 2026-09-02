@@ -33,7 +33,9 @@ I was born and raised in Thailand and received my B.Sc. and M.Sc. degrees in Org
 
 Outside the lab, I enjoy hiking, surfing, climbing, Muay Thai, and cooking Thai food. Check out my [Instagram](https://instagram.com/theicechol) for photos of nature, travel, and culture.
 
-<br/><img src='/images/Thai-cultural-map_customized.png'>
+<figure style="margin: 1.5rem 0;">
+  <img src="/images/260901_Ice_Thailand_v1.png" alt="Ice's academic and research journey from Thailand to Seattle and Boston" style="display: block; width: 100%; height: auto; margin: 0 auto;">
+</figure>
 
 ## Community engagement
 
@@ -43,6 +45,14 @@ Through connections formed at EBRC, I helped co-found [SynBio4ALL](https://synbi
 
 I also contribute to [How To Grow (Almost) Anything](https://pages.htgaa.org/2026a/course-pages/), a global synthetic-biology course based at MIT and Harvard. As a member of the teaching staff, I support laboratory and recitation instruction in areas including DNA assembly, cell-free systems, and CRISPR-based metabolic engineering.
 
-[<img src="/images/logo-EBRC.png">](https://ebrc.org/student-postdoc-association/)
-[<img src="/images/logo-SynBio4ALL.png">](https://synbio4all.wixsite.com/synbio4all/education)
-[<img src="/images/logo-Thai-SynBio.jpg">](https://www.th-synbioconsortium.com/)
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 1.25rem; margin: 1.5rem 0;">
+  <a href="https://ebrc.org/student-postdoc-association/" style="flex: 1 1 240px; text-align: center;">
+    <img src="/images/logo-EBRC.png" alt="Engineering Biology Research Consortium" style="max-width: 100%; max-height: 110px; width: auto; height: auto; object-fit: contain;">
+  </a>
+  <a href="https://synbio4all.wixsite.com/synbio4all/education" style="flex: 1 1 180px; text-align: center;">
+    <img src="/images/logo-SynBio4ALL.png" alt="SynBio4ALL" style="max-width: 100%; max-height: 110px; width: auto; height: auto; object-fit: contain;">
+  </a>
+  <a href="https://www.th-synbioconsortium.com/" style="flex: 1 1 180px; text-align: center;">
+    <img src="/images/logo-Thai-SynBio.jpg" alt="Thailand Synthetic Biology Consortium" style="max-width: 100%; max-height: 110px; width: auto; height: auto; object-fit: contain;">
+  </a>
+</div>
