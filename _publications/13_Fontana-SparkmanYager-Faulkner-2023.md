@@ -5,7 +5,7 @@ permalink: /publication/13_Fontana-SparkmanYager-Faulkner-2023
 excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2024-07-27
 venue: 'Nature Communications'
-paperurl: ''
+paperurl: 'https://doi.org/10.1038/s41467-024-50528-1'
 citation: 'Fontana J.<sup>+</sup>, Sparkman-Yager D.<sup>+</sup>, Faulkner I.<sup>+</sup>, Cardiff R., <u>Kiattisewee C.</u>, Walls A., Primo T.G., Kinnunen P.C., Garcia Martin H., Zalatan J.G.<sup>†</sup>, Carothers J.M.<sup>†</sup> (2024). &quot;Guide RNA structure design enables combinatorial CRISPRa programs for biosynthetic profiling.&quot; <i>Nature Communications</i>. 15:6341. PMID: 39068154'
 ---
 

@@ -5,7 +5,7 @@ permalink: /publication/9_Kiattisewee-Karanjia-2022
 excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2022-12-16
 venue: 'ACS Synthetic Biology'
-paperurl: ''
+paperurl: 'https://doi.org/10.1021/acssynbio.2c00405'
 citation: '<u>Kiattisewee C.</u><sup>+</sup>, Karanjia A.V.<sup>+</sup>, Legut M., Daniloski Z., Koplik S.E., Nelson J., Kleinstiver B.P., Sanjana N.E., Carothers J.M.<sup>†</sup>, Zalatan J.G.<sup>†</sup> (2022). &quot;Expanding the Scope of Bacterial CRISPR Activation with PAM-Flexible dCas9 Variants.&quot; <i>ACS Synthetic Biology</i>. 11(12):4103-4112. PMID: 36378874.'
 ---
 

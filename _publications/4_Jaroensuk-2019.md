@@ -5,7 +5,7 @@ permalink: /publication/4_Jaroensuk-2019
 excerpt: 'This paper is part of Ice work as a research assistant at VISTEC.'
 date: 2019-07-26
 venue: 'Journal of Biological Chemistry'
-paperurl: ''
+paperurl: 'https://www.jbc.org/article/S0021-9258(20)30656-6/fulltext'
 citation: 'Jaroensuk J., Intasian P., <u>Kiattisewee C.</u>, Munkajohnpon P., Chunthaboon P., Buttranon S., Trisrivirat D., Wongnate T., Maenpuen S., Tinikul R., Chaiyen P.<sup>†</sup> (2019). &quot;Addition of formate dehydrogenase increases the production of renewable alkane from an engineered metabolic pathway.&quot; <i>Journal of Biological Chemistry</i>. 294(30):11536-11548. PMID: 31182484.'
 ---
 

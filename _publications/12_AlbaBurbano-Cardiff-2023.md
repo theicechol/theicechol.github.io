@@ -5,7 +5,7 @@ permalink: /publication/12_AlbaBurbano-Cardiff-2023
 excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2023-07-18
 venue: 'Proceedings of the National Academy of Sciences of the United States of America'
-paperurl: ''
+paperurl: 'https://doi.org/10.1073/pnas.2220358120'
 citation: 'Alba Burbano D.<sup>+</sup>, Cardiff R.A.L.<sup>+</sup>, Tickman B.I., <u>Kiattisewee C.</u>, Maranas C.J., Zalatan J.G.<sup>†</sup>, Carothers J.M.<sup>†</sup> (2023). &quot;Engineering activatable promoters for scalable and multi-input CRISPRa/i circuits.&quot; <i>Proceedings of the National Academy of Sciences of the United States of America</i>. 120(30):e2220358120. PMID: 37463216.'
 ---
 

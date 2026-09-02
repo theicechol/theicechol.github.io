@@ -5,7 +5,7 @@ permalink: /publication/8_Tickman-AlbaBurbano-2022
 excerpt: 'This paper is part of Ice PhD research at UW.'
 date: 2022-03-16
 venue: 'Cell Systems'
-paperurl: ''
+paperurl: 'https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00419-1'
 citation: 'Tickman B.I.<sup>+</sup>, Burbano D.A.<sup>+</sup>, Chavali V.P., <u>Kiattisewee C.</u>, Fontana J., Khakimzhan A., Noireaux V., Zalatan J.G.<sup>†</sup>, Carothers J.M.<sup>†</sup> (2022). &quot;Multi-layer CRISPRa/i circuits for dynamic genetic programs in cell-free and bacterial systems.&quot; <i>Cell Systems</i>. 13(3):215-229.e8. PMID: 34800362.'
 ---
 

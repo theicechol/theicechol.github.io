@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/10_Siriariyachai-2023
 excerpt: 'Ice was working with a team at Chiang Mai University, a friend from undergraduate time'
 date: 2023-02-11
-venue: 'Materials Letter'
-paperurl: ''
+venue: 'Materials Letters'
+paperurl: 'https://doi.org/10.1016/j.matlet.2023.134046'
 citation: 'Siriariyachai R., Sirithuwanon N., Kantarak E., Sroila W., Kumpika T., <u>Kiattisewee C.</u>, Limpichaipanit A., Singjai P., Wiranwetchayan O.<sup>†</sup> (2023). &quot;Effect of UV light irradiation on the In<sub>2</sub>O<sub>3</sub> nanoparticle films synthesis by the sparking method.&quot; <i>Materials Letters</i>. 134046.'
 ---
 
