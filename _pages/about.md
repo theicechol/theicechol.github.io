@@ -27,6 +27,43 @@ At MIT, I am exploring how engineered microbes and microbial communities can be 
 - [Systematic Mapping of Bacterial CRISPRa Systems for Synergistic Gene Activation Reveals Antagonistic Effects](/publication/17_Kiattisewee-Karanjia-Cardiff-2025) — *ACS Synthetic Biology* (2025)
 - [Portable bacterial CRISPR transcriptional activation enables metabolic engineering in *Pseudomonas putida*](/publication/7_Kiattisewee-2021) — *Metabolic Engineering* (2021)
 
+## Recent Updates
+
+{% assign recent_publications = site.publications | sort: "date" | reverse | slice: 0, 2 %}
+{% assign recent_talks = site.talks | sort: "date" | reverse %}
+{% assign recent_teaching = site.teaching | sort: "date" | reverse %}
+{% assign recent_posts = site.posts | where_exp: "post", "post.published != false" | sort: "date" | reverse %}
+
+{% assign featured_talk = recent_talks | slice: 0, 1 %}
+{% assign featured_teaching = recent_teaching | slice: 0, 1 %}
+{% assign featured_post = recent_posts | slice: 0, 1 %}
+{% assign extra_talk = recent_talks | slice: 1, 1 %}
+{% assign extra_teaching = recent_teaching | slice: 1, 1 %}
+{% assign extra_post = recent_posts | slice: 1, 1 %}
+
+{% assign updates = recent_publications | concat: featured_talk | concat: featured_teaching | concat: featured_post %}
+{% assign extra_updates = extra_talk | concat: extra_teaching | concat: extra_post | sort: "date" | reverse | slice: 0, 1 %}
+{% assign updates = updates | concat: extra_updates | sort: "date" | reverse %}
+
+<div class="recent-updates">
+{% for item in updates limit: 6 %}
+  {% if item.collection == "publications" %}
+    {% assign update_type = "Publication" %}
+  {% elsif item.collection == "talks" %}
+    {% assign update_type = "Talk" %}
+  {% elsif item.collection == "teaching" %}
+    {% assign update_type = "Teaching" %}
+  {% else %}
+    {% assign update_type = "Blog" %}
+  {% endif %}
+  <div class="recent-update">
+    <div class="recent-update__meta">{{ item.date | date: "%B %-d, %Y" }} · {{ update_type }}</div>
+    <a class="recent-update__title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% if item.excerpt %}<div class="recent-update__excerpt">{{ item.excerpt | strip_html | strip_newlines }}</div>{% endif %}
+  </div>
+{% endfor %}
+</div>
+
 ## Background
 
 I was born and raised in Thailand and received my B.Sc. and M.Sc. degrees in Organic Chemistry from Mahidol University. I later joined the founding team of the School of Biomolecular Sciences and Engineering at VISTEC, where I worked on enzyme biocatalysis before moving into synthetic biology.
