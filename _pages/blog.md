@@ -11,7 +11,7 @@ A space for Ice to share non-academic writing—from politics and lifestyle to t
 
 {% if site.posts.size > 0 %}
   {% for post in site.posts %}
-    {% include archive-single.html %}
+    {% include archive-single.html show_first_media=true %}
   {% endfor %}
 {% else %}
   <p>Posts are coming soon.</p>
