@@ -243,3 +243,23 @@
     }
   }
 }
+
+/* First media preview on the Blogs listing. */
+.archive__item-media {
+  max-width: 36rem;
+  margin: 1em 0 2em;
+
+  img, iframe, video, audio {
+    display: block;
+    max-width: 100%;
+  }
+
+  img, video {
+    height: auto;
+  }
+
+  iframe {
+    width: 100%;
+    border: 0;
+  }
+}

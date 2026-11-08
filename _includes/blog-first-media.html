@@ -1,0 +1,25 @@
+{% assign rendered_post = post.content | markdownify %}
+{% assign media_types = "img,iframe,video,audio" | split: "," %}
+{% assign first_media = "" %}
+{% assign first_media_position = rendered_post.size %}
+{% for media_type in media_types %}
+  {% assign opening_tag = "<" | append: media_type %}
+  {% assign media_parts = rendered_post | split: opening_tag %}
+  {% if media_parts.size > 1 %}
+    {% assign media_position = media_parts.first.size %}
+    {% if media_position < first_media_position %}
+      {% assign first_media_position = media_position %}
+      {% if media_type == "img" %}
+        {% assign media_markup = media_parts[1] | split: ">" | first %}
+        {% assign first_media = opening_tag | append: media_markup | append: ">" %}
+      {% else %}
+        {% assign closing_tag = "</" | append: media_type | append: ">" %}
+        {% assign media_markup = media_parts[1] | split: closing_tag | first %}
+        {% assign first_media = opening_tag | append: media_markup | append: closing_tag %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% if first_media != "" %}
+  <div class="archive__item-media">{{ first_media }}</div>
+{% endif %}
