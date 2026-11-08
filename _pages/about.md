@@ -24,7 +24,7 @@ At MIT, I am exploring how engineered microbes and microbial communities can be 
 ## Selected research
 
 - [How many plasmids can bacteria carry? A synthetic biology perspective](/publication/16_Kiattisewee-2025) — *Open Biology* (2025)
-- [Systematic Mapping of Bacterial CRISPRa Systems for Synergistic Gene Activation Reveals Antagonistic Effects](/publication/17_Kiattisewee-Karanjia-Cardiff-2025) — *ACS Synthetic Biology* (2025)
+- [Conjugation-based genome engineering enables rapid prototyping and bioproduction in non-model bacteria](/publication/18_Guzman-Kiattisewee-2026) — *bioRxiv* (2026, preprint)
 - [Portable bacterial CRISPR transcriptional activation enables metabolic engineering in *Pseudomonas putida*](/publication/7_Kiattisewee-2021) — *Metabolic Engineering* (2021)
 
 ## Recent Updates
@@ -68,7 +68,7 @@ At MIT, I am exploring how engineered microbes and microbial communities can be 
 
 I was born and raised in Thailand and received my B.Sc. and M.Sc. degrees in Organic Chemistry from Mahidol University. I later joined the founding team of the School of Biomolecular Sciences and Engineering at VISTEC, where I worked on enzyme biocatalysis before moving into synthetic biology.
 
-Outside the lab, I enjoy hiking, surfing, climbing, Muay Thai, and cooking Thai food. Check out my [Instagram](https://instagram.com/theicechol) for photos of nature, travel, and culture.
+Outside the lab, I enjoy hiking, surfing, climbing, Muay Thai, and cooking Thai food. Ice also enjoy music, arts, and many other entertainment media. If there's any fun activities in town ongoing, Ice may drop by after finishing the lab task.
 
 <figure style="margin: 1.5rem 0;">
   <img src="/images/260901_Ice_Thailand_v1.png" alt="Ice's academic and research journey from Thailand to Seattle and Boston" style="display: block; width: 100%; height: auto; margin: 0 auto;">
@@ -80,7 +80,11 @@ I am actively involved in building engineering-biology communities in the United
 
 Through connections formed at EBRC, I helped co-found [SynBio4ALL](https://synbio4all.wixsite.com/synbio4all/education), an initiative created to expand access to synthetic-biology education for African students. I have also supported the development of Thailand's synthetic-biology community through teaching, public communication, and the [Thailand Synthetic Biology Consortium](https://www.th-synbioconsortium.com/).
 
+I have deep interest in politics and policy since I was capable of reading. See Blogs section to explore more non-STEM content.
+
 I also contribute to [How To Grow (Almost) Anything](https://pages.htgaa.org/2026a/course-pages/), a global synthetic-biology course based at MIT and Harvard. As a member of the teaching staff, I support laboratory and recitation instruction in areas including DNA assembly, cell-free systems, and CRISPR-based metabolic engineering.
+
+I believe that education is always evolving and at the age of AI with many paradigm shifts, we need to adjust the curriculum beyond conventional route. I discussed several ideas in the [Curriculum Framework commissioned by UNESCO](/publication/20_Chaiyen-Fahmi-Khomfoi-Kiattisewee-2026) to build a guideline for Low- and Middle-Income Countries.
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 1.25rem; margin: 1.5rem 0;">
   <a href="https://ebrc.org/student-postdoc-association/" style="flex: 1 1 240px; text-align: center;">
