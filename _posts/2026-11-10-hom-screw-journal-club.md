@@ -16,4 +16,4 @@ The journal-club format offers a way to look beyond an abstract and spend more t
 
 [Watch the YouTube playlist](https://www.youtube.com/playlist?list=PLj2XTFiEzMIPvY_GNOYfcKfrmyUQ40oPH).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLj2XTFiEzMIPvY_GNOYfcKfrmyUQ40oPH" title="HOM Screw Journal Club YouTube playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vTHfzAbMt-I" title="HOM Screw Journal Club — latest session" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
