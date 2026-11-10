@@ -2,13 +2,18 @@
 layout: single
 title: HOM Screw SynBioChem Lecture
 date: '2026-11-10'
-permalink: /blog/2026/hom-screw-synbiochem-lecture/
+permalink: /teaching/2026_HOM-Screw-SynBioChem-Lecture
 excerpt: Lectures connecting synthetic biology and chemistry.
 author_profile: true
 tags:
 - synthetic biology
 - chemistry
 - lectures
+collection: teaching
+type: Lectures
+venue: HOM Screw
+redirect_from:
+- /blog/2026/hom-screw-synbiochem-lecture/
 ---
 
 HOM Screw SynBioChem Lecture introduces synthetic biology through the perspective of synthetic chemistry. The series uses familiar chemical ideas to help connect molecular tools with the design and engineering of living systems.
