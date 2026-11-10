@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About Ice"
+    url: /about-ice/
+
   - title: "Publications"
     url: /publications/
 
@@ -9,7 +12,7 @@ main:
   - title: "Teaching and Services"
     url: /teaching/    
 
-  - title: "Blog"
+  - title: "Blogs"
     url: /blog/
     
   - title: "CV"
