@@ -263,3 +263,13 @@
     border: 0;
   }
 }
+
+/* Keep the interactive talk map within the content column on every screen. */
+.talk-map {
+  display: block;
+  width: 100%;
+  height: clamp(260px, 60vw, 600px);
+  max-height: 70vh;
+  margin-bottom: 1.5em;
+  border: 0;
+}
