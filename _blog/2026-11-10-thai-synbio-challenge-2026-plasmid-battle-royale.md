@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'Thai SynBio Challenge 2026: Plasmid Design Battle Royale'
-date: '2026-11-10'
+date: '2026-01-01'
 permalink: /blog/2026/thai-synbio-challenge-2026-plasmid-battle-royale/
 excerpt: The Arena turns plasmid design into a competition combining biological engineering
   and strategy.
@@ -11,6 +11,11 @@ tags:
 - Thailand
 - education
 - Thai SynBio Challenge
+date_precision: year
+date_display: "2026–2027"
+date_caption: "Competition period"
+date_source: https://thaisynbiogc.web.app/
+date_note: "Competition is ongoing in 2026, with its final planned for May 2027; no single completed event day."
 ---
 
 The 2026 Thai SynBio Challenge shifts the focus from colorful proteins to plasmid design. Called **The Arena — Survival of the Engineered**, it frames a biological design problem as a Battle Royale: how will an engineered plasmid perform when its rivals enter the same environment?

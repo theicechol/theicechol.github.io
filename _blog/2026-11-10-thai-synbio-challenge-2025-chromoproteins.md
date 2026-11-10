@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'Thai SynBio Challenge 2025: Designing Chromoproteins'
-date: '2026-11-10'
+date: '2025-11-11'
 permalink: /blog/2026/thai-synbio-challenge-2025-chromoproteins/
 excerpt: Designing colorful proteins and connecting synthetic-biology ideas with experimental
   testing in Thailand’s 2025 challenge.
@@ -11,6 +11,11 @@ tags:
 - Thailand
 - education
 - Thai SynBio Challenge
+date_precision: day
+date_display: "November 11, 2025"
+date_caption: "Event date"
+date_source: https://www.nxpo.or.th/th/en/40637/
+date_note: "Final presentations and awards at SynBio Forum 2025, as reported by NXPO."
 ---
 
 Thai SynBio Challenge 2025 invited teams to explore synthetic biology through chromoproteins: proteins that produce visible color. Under the theme “Designing the Protein for Tomorrow,” the challenge connected creative applications with the scientific work needed to turn an idea into a testable design.

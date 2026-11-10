@@ -1,0 +1,12 @@
+{%- assign entry = include.entry -%}
+{%- if include.iso -%}
+  {%- case entry.date_precision -%}
+    {%- when 'month' -%}{{ entry.date | date: "%Y-%m" }}
+    {%- when 'year' -%}{{ entry.date | date: "%Y" }}
+    {%- else -%}{{ entry.date | date: "%Y-%m-%d" }}
+  {%- endcase -%}
+{%- elsif entry.date_display -%}
+  {{- entry.date_display -}}
+{%- else -%}
+  {{- entry.date | date: "%B %-d, %Y" -}}
+{%- endif -%}

@@ -1,13 +1,18 @@
 ---
 layout: single
 title: HOM Screw Journal Club
-date: '2026-11-10'
+date: '2026-10-01'
 permalink: /blog/2026/hom-screw-journal-club/
 excerpt: Research-paper discussions in the HOM Screw series.
 author_profile: true
 tags:
 - journal club
 - science communication
+date_precision: month
+date_display: "October 2026"
+date_caption: "Latest event"
+date_source: https://www.youtube.com/watch?v=vTHfzAbMt-I
+date_note: "User confirmed October 2026; planning doc says October 22 but slide filename says October 24. Exact date pending verification."
 ---
 
 HOM Screw Journal Club is a space for exploring research papers and discussing the ideas behind them. This series focuses on reading science together: understanding the questions a study asks, examining its approach, and considering what its findings mean.

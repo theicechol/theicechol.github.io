@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Thai SynBio Column
-date: '2026-11-10'
+date: '2025-08-03'
 permalink: /blog/2026/thai-synbio-column/
 excerpt: A series exploring synthetic biology in the Thai context.
 author_profile: true
@@ -16,6 +16,11 @@ videos:
   title: Thai SynBio Column — Episode 2
 - id: jUJT_H02Ksg
   title: Thai SynBio Column — Episode 3
+date_precision: day
+date_display: "August 3, 2025"
+date_caption: "Latest recording"
+date_source: https://docs.google.com/document/d/1OKMTBHZf5FML3jXz_Jo_qTLtS8GelRjhWZXAR5qiLrc
+date_note: "Generative Genomics episode narration script explicitly records August 3, 2568 (2025); article publication was May 22, 2025. This is the recording date, not a verified YouTube upload date."
 ---
 
 Thai SynBio Column is a Thai-language science communication series introducing synthetic biology through articles, illustrations, and videos. The articles are intended to be understandable to high-school readers, making the field approachable without requiring specialist training.

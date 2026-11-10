@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'HTGAA 2024: Committed Listener and Asia Session'
-date: '2026-11-10'
+date: '2024-04-15'
 permalink: /teaching/2024_HTGAA-Asia
 excerpt: My first year in How To Grow (Almost) Anything, with course notes and a Practical
   CRISPR Design talk for the Asia session.
@@ -15,6 +15,11 @@ type: Committed listener and invited speaker
 venue: How To Grow (Almost) Anything
 redirect_from:
 - /blog/2026/htgaa-2024-committed-listener/
+date_precision: day
+date_display: "April 15, 2024"
+date_caption: "Asia session"
+date_source: https://docs.google.com/presentation/d/1MJZsS6yMNHyn2Fl9GmnKWmioUPKFWvVj/edit
+date_note: "Practical CRISPR Design slide deck is explicitly dated 240415."
 ---
 
 In 2024, I joined How To Grow (Almost) Anything (HTGAA) as a committed listener. The course brought together synthetic biology, hands-on design, and a global community of learners. I documented my participation in Notion and shared my experience with CRISPR design in an HTGAA Asia session.

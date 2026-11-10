@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Thai SynBio Forum
-date: '2026-11-10'
+date: '2025-03-01'
 permalink: /blog/2026/thai-synbio-forum/
 excerpt: A forum for conversations about synthetic biology in Thailand.
 author_profile: true
@@ -16,6 +16,11 @@ videos:
   title: Thai SynBio Forum — Episode 2
 - id: cLTG6Sn-HKo
   title: Thai SynBio Forum — Episode 3
+date_precision: month
+date_display: "March 2025"
+date_caption: "Latest discussion"
+date_source: https://docs.google.com/document/d/1r4EQppPm79f_c3vRNzyV7wekCxOirHp_e82XlsN7X68
+date_note: "Biomaterials and Biochemicals outline says March 13, 2025 but names an inconsistent weekday. Month/year only pending exact-day confirmation."
 ---
 
 Thai SynBio Forum brings researchers and practitioners together for conversations about synthetic biology and its place in Thailand’s bioeconomy. I moderate the series with the team behind Get Rich with SynBio, connecting research with the opportunities and challenges of putting it into practice.

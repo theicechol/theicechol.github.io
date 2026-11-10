@@ -1,7 +1,7 @@
 ---
 layout: single
 title: HOM Screw Podcast
-date: '2026-11-10'
+date: '2026-10-01'
 permalink: /blog/2026/hom-screw-podcast/
 excerpt: Conversations in the HOM Screw series.
 author_profile: true
@@ -11,6 +11,11 @@ videos:
 tags:
 - podcast
 - science communication
+date_precision: month
+date_display: "October 2026"
+date_caption: "Latest release"
+date_source: https://www.youtube.com/watch?v=vQNpUYs-Njw
+date_note: "User confirmed October 2026. YouTube exact upload date unavailable."
 ---
 
 HOM Screw Podcast is the conversational side of the HOM Screw series. Alongside the Journal Club and SynBioChem Lecture, it offers another way to engage with ideas through a discussion format.
