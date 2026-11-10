@@ -2,7 +2,7 @@
 layout: single
 title: 'HTGAA 2024: Committed Listener and Asia Session'
 date: '2026-11-10'
-permalink: /blog/2026/htgaa-2024-committed-listener/
+permalink: /teaching/2024_HTGAA-Asia
 excerpt: My first year in How To Grow (Almost) Anything, with course notes and a Practical
   CRISPR Design talk for the Asia session.
 author_profile: true
@@ -10,6 +10,11 @@ tags:
 - HTGAA
 - synthetic biology
 - education
+collection: teaching
+type: Committed listener and invited speaker
+venue: How To Grow (Almost) Anything
+redirect_from:
+- /blog/2026/htgaa-2024-committed-listener/
 ---
 
 In 2024, I joined How To Grow (Almost) Anything (HTGAA) as a committed listener. The course brought together synthetic biology, hands-on design, and a global community of learners. I documented my participation in Notion and shared my experience with CRISPR design in an HTGAA Asia session.
