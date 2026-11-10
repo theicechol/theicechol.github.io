@@ -5,7 +5,7 @@ permalink: /blog/
 author_profile: true
 ---
 
-A space for Ice to share non-academic writing—from politics and lifestyle to trivia and everything in between.
+Stories, conversations, and resources from my work and interests—exploring synthetic biology, teaching and learning, community projects, politics, and life beyond the lab. Browse articles, podcasts, videos, and reflections from the communities I’m part of.
 
 {% include base_path %}
 
