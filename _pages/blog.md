@@ -9,8 +9,9 @@ A space for Ice to share non-academic writing—from politics and lifestyle to t
 
 {% include base_path %}
 
-{% if site.posts.size > 0 %}
-  {% for post in site.posts %}
+{% assign blog_posts = site.blog | where_exp: "post", "post.published != false" | sort: "date" | reverse %}
+{% if blog_posts.size > 0 %}
+  {% for post in blog_posts %}
     {% include archive-single.html show_first_media=true %}
   {% endfor %}
 {% else %}
