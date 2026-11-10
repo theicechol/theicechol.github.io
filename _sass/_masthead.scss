@@ -56,3 +56,15 @@
     font-weight: 700;
   }
 }
+// Keep the site title and dropdown button visible on narrow phones.
+@include breakpoint(max-width $small) {
+  .masthead__menu-item--lg {
+    padding-right: 0;
+
+    a {
+      max-width: calc(100vw - 8rem);
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+}
