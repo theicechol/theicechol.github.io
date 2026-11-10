@@ -5,6 +5,9 @@ date: '2026-11-10'
 permalink: /blog/2026/hom-screw-podcast/
 excerpt: Conversations in the HOM Screw series.
 author_profile: true
+videos:
+  - id: vQNpUYs-Njw
+    title: HOM Screw Podcast — First episode
 tags:
 - podcast
 - science communication
@@ -16,4 +19,7 @@ Explore the recordings as a companion to the more structured lectures and paper-
 
 [Watch the YouTube playlist](https://www.youtube.com/playlist?list=PLj2XTFiEzMIOmLqqlRUMJckCuOgjb_wES).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLj2XTFiEzMIOmLqqlRUMJckCuOgjb_wES" title="HOM Screw Podcast YouTube playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Watch the first episode](https://www.youtube.com/watch?v=vQNpUYs-Njw).
+
+{% assign first_episode = page.videos | first %}
+{% include youtube-video.html video_id=first_episode.id title=first_episode.title %}
