@@ -32,7 +32,7 @@ At MIT, I am exploring how engineered microbes and microbial communities can be 
 {% assign recent_publications = site.publications | sort: "date" | reverse | slice: 0, 2 %}
 {% assign recent_talks = site.talks | sort: "date" | reverse %}
 {% assign recent_teaching = site.teaching | sort: "date" | reverse %}
-{% assign recent_posts = site.posts | where_exp: "post", "post.published != false" | sort: "date" | reverse %}
+{% assign recent_posts = site.blog | where_exp: "post", "post.published != false" | sort: "date" | reverse %}
 
 {% assign featured_talk = recent_talks | slice: 0, 1 %}
 {% assign featured_teaching = recent_teaching | slice: 0, 1 %}

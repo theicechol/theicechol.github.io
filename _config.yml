@@ -108,7 +108,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  path                   : /blog/feed.xml # blog collection feed
 
 
 # SEO Related
@@ -147,6 +147,7 @@ include:
   - _pages
   - files
 exclude:
+  - _blog/README.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -199,6 +200,9 @@ kramdown:
 
 # Collections
 collections:
+  blog:
+    output: true
+    permalink: /blog/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -219,6 +223,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
@@ -311,3 +324,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Include the blog collection in its own Atom feed at /blog/feed.xml.
+feed:
+  collections:
+    - blog
