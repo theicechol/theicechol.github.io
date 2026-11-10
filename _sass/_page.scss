@@ -438,3 +438,10 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* Long citation URLs must not widen the page on phones. */
+.page__content a,
+.archive a {
+  overflow-wrap: anywhere;
+  word-wrap: break-word;
+}
