@@ -1,3 +1,7 @@
+{% if post.videos.size > 0 %}
+  {% assign first_video = post.videos | first %}
+  {% include youtube-video.html video_id=first_video.id title=first_video.title %}
+{% else %}
 {% assign rendered_post = post.content | markdownify %}
 {% assign media_types = "img,iframe,video,audio" | split: "," %}
 {% assign first_media = "" %}
@@ -22,4 +26,5 @@
 {% endfor %}
 {% if first_media != "" %}
   <div class="archive__item-media">{{ first_media }}</div>
+{% endif %}
 {% endif %}
