@@ -23,6 +23,9 @@ $(document).ready(function(){
   // FitVids init
   $("#main").fitVids();
 
+  // Responsive embeds can change the available width after the initial nav pass.
+  updateNav();
+
   // init sticky sidebar
   $(".sticky").Stickyfill();
 
