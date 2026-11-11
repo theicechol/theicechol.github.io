@@ -57,7 +57,7 @@ At MIT, I am exploring how engineered microbes and microbial communities can be 
     {% assign update_type = "Blog" %}
   {% endif %}
   <div class="recent-update">
-    <div class="recent-update__meta">{{ item.date | date: "%B %-d, %Y" }} · {{ update_type }}</div>
+    <div class="recent-update__meta">{% include event-date.html entry=item %} · {{ update_type }}</div>
     <a class="recent-update__title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
     {% if item.excerpt %}<div class="recent-update__excerpt">{{ item.excerpt | strip_html | strip_newlines }}</div>{% endif %}
   </div>

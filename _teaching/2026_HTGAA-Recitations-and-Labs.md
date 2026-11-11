@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'HTGAA 2026: Teaching Recitations and Labs'
-date: '2026-11-10'
+date: '2026-01-01'
 permalink: /teaching/2026_HTGAA-Recitations-and-Labs
 excerpt: Continuing as an HTGAA teaching assistant, leading recitations and laboratory
   learning across DNA design, cell-free systems, and bioproduction.
@@ -15,6 +15,11 @@ type: Teaching Assistant
 venue: How To Grow (Almost) Anything
 redirect_from:
 - /blog/2026/htgaa-2026-ta-recitations-and-labs/
+date_precision: year
+date_display: "2026"
+date_caption: "Course year"
+date_source: https://pages.htgaa.org/2026a/course-pages/weeks/index.print.html
+date_note: "Entry covers multiple sessions: February 11 DNA Gel recitation, April 22 CRISPR and April 29 Golden Gate, among others."
 ---
 
 In 2026, I continued as a teaching assistant for How To Grow (Almost) Anything (HTGAA), leading several recitations and labs. My teaching connected DNA design and assembly with cell-free systems and CRISPR-based metabolic engineering.

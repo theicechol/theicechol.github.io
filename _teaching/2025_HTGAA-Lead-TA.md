@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'HTGAA 2025: Lead TA and Recitations'
-date: '2026-11-10'
+date: '2025-01-01'
 permalink: /teaching/2025_HTGAA-Lead-TA
 excerpt: Returning to HTGAA as a lead teaching assistant, supporting practical learning
   through bootcamp sessions and recitations.
@@ -15,6 +15,11 @@ type: Lead Teaching Assistant
 venue: How To Grow (Almost) Anything
 redirect_from:
 - /blog/2026/htgaa-2025-lead-ta/
+date_precision: year
+date_display: "2025"
+date_caption: "Course year"
+date_source: https://pages.htgaa.org/2025/course-pages/index.print.html
+date_note: "Entry covers multiple bootcamp and recitation sessions in the 2025 course rather than one event."
 ---
 
 In 2025, I returned to How To Grow (Almost) Anything (HTGAA) as a lead teaching assistant. Moving from committed listener to teaching helped me connect the course’s broad ideas with the practical questions students encounter when they begin designing and building biological systems.

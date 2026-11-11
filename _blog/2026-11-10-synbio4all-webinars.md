@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SynBio4ALL Webinars
-date: '2026-11-10'
+date: '2026-10-02'
 permalink: /blog/2026/synbio4all-webinars/
 excerpt: Conversations connecting global synthetic-biology experts with African scientific
   communities.
@@ -11,6 +11,11 @@ tags:
 - SynBio4ALL
 - webinars
 - education
+date_precision: day
+date_display: "October 2, 2026"
+date_caption: "Latest webinar"
+date_source: https://synbioforall.org/webinars/
+date_note: "Most recent past webinar listed by the organizer; excludes the upcoming November 13 webinar."
 ---
 
 I help moderate the SynBio4ALL webinar series with Sebunya Emmanuel Kato, bringing researchers, educators, and biotechnology practitioners into conversation with African scientific communities. The series connects research with questions about access, education, and opportunities to put new ideas into practice.
